@@ -1,0 +1,5 @@
+# Server par Caddy install karke: domain apna likhein
+yourdomain.com, www.yourdomain.com {
+    encode gzip
+    reverse_proxy 127.0.0.1:8080
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Admin - Swat Online Application Center</title>
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" href="/assets/defaults/favicon.svg">
+<link rel="stylesheet" href="/admin/admin.css">
+</head><body>
+<div id="login" class="center" hidden>
+  <form id="loginForm" class="box login">
+    <img src="/assets/defaults/logo.svg" alt="" width="64" height="64">
+    <h1>Admin Panel</h1><p class="mu">Swat Online Application Center</p>
+    <label>Username<input id="lu" autocomplete="username" autocapitalize="none" required></label>
+    <label>Password<input id="lp" type="password" autocomplete="current-password" required></label>
+    <div id="lerr" class="err"></div>
+    <button class="btn p" type="submit">Login</button>
+  </form>
+</div>
+<div id="app" hidden>
+  <aside id="side"></aside>
+  <div class="main">
+    <header class="top"><button id="menuBtn" class="ghost" aria-label="Menu">☰</button><h2 id="title"></h2><span id="dirty" class="dirty" hidden>● Unsaved changes</span><span class="sp"></span>
+      <a class="btn ghost" href="/" target="_blank" rel="noopener">View website ↗</a><button id="saveBtn" class="btn p" hidden>Save &amp; Publish</button></header>
+    <main id="view"></main>
+  </div>
+</div>
+<div id="modal" hidden></div><div id="toast"></div>
+<script src="/admin/admin.js"></script>
+</body></html>

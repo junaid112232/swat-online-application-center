@@ -1,0 +1,110 @@
+2026-11-09 20:55:36 /api/admin/inquiry-doc?id=2
+Traceback (most recent call last):
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 398, in do_GET
+    return self.api_get(path[5:], q)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 524, in api_get
+    return self.admin_get(name[6:], q)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 645, in admin_get
+    return self.admin_doc(q)
+           ~~~~~~~~~~~~~~^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 696, in admin_doc
+    self.reply(200, data, ct, extra=[("Content-Disposition", 'inline; filename="%s"' % re.sub(r"[^\w.\- ]", "_", r["orig"]))])
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 320, in reply
+    self.wfile.write(data)
+    ~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\STUDENTS\AppData\Local\Python\pythoncore-3.15-64\Lib\socketserver.py", line 842, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+
+2026-11-09 20:55:36 /api/admin/inquiry-doc?id=2
+Traceback (most recent call last):
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 398, in do_GET
+    return self.api_get(path[5:], q)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 524, in api_get
+    return self.admin_get(name[6:], q)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 645, in admin_get
+    return self.admin_doc(q)
+           ~~~~~~~~~~~~~~^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 696, in admin_doc
+    self.reply(200, data, ct, extra=[("Content-Disposition", 'inline; filename="%s"' % re.sub(r"[^\w.\- ]", "_", r["orig"]))])
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 320, in reply
+    self.wfile.write(data)
+    ~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\STUDENTS\AppData\Local\Python\pythoncore-3.15-64\Lib\socketserver.py", line 842, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+
+2026-11-09 20:55:36 /api/admin/inquiry-doc?id=2
+Traceback (most recent call last):
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 398, in do_GET
+    return self.api_get(path[5:], q)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 524, in api_get
+    return self.admin_get(name[6:], q)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 645, in admin_get
+    return self.admin_doc(q)
+           ~~~~~~~~~~~~~~^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 696, in admin_doc
+    self.reply(200, data, ct, extra=[("Content-Disposition", 'inline; filename="%s"' % re.sub(r"[^\w.\- ]", "_", r["orig"]))])
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 320, in reply
+    self.wfile.write(data)
+    ~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\STUDENTS\AppData\Local\Python\pythoncore-3.15-64\Lib\socketserver.py", line 842, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+
+2026-11-09 20:55:36 /api/admin/inquiry-doc?id=2
+Traceback (most recent call last):
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 398, in do_GET
+    return self.api_get(path[5:], q)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 524, in api_get
+    return self.admin_get(name[6:], q)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 645, in admin_get
+    return self.admin_doc(q)
+           ~~~~~~~~~~~~~~^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 696, in admin_doc
+    self.reply(200, data, ct, extra=[("Content-Disposition", 'inline; filename="%s"' % re.sub(r"[^\w.\- ]", "_", r["orig"]))])
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 320, in reply
+    self.wfile.write(data)
+    ~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\STUDENTS\AppData\Local\Python\pythoncore-3.15-64\Lib\socketserver.py", line 842, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+
+2026-11-09 20:55:36 /api/admin/inquiry-doc?id=2
+Traceback (most recent call last):
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 398, in do_GET
+    return self.api_get(path[5:], q)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 524, in api_get
+    return self.admin_get(name[6:], q)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 645, in admin_get
+    return self.admin_doc(q)
+           ~~~~~~~~~~~~~~^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 696, in admin_doc
+    self.reply(200, data, ct, extra=[("Content-Disposition", 'inline; filename="%s"' % re.sub(r"[^\w.\- ]", "_", r["orig"]))])
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\STUDENTS\Desktop\My Website\swat-online-application-center\server.py", line 320, in reply
+    self.wfile.write(data)
+    ~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\STUDENTS\AppData\Local\Python\pythoncore-3.15-64\Lib\socketserver.py", line 842, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+

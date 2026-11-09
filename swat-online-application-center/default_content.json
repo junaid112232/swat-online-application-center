@@ -1,0 +1,366 @@
+{
+ "settings": {
+  "site_name": "Swat Online Application Center",
+  "site_name_ur": "سوات آن لائن ایپلیکیشن سینٹر",
+  "tagline_en": "Your trusted partner for every online application",
+  "tagline_ur": "ہر آن لائن درخواست کے لیے آپ کا قابلِ اعتماد ساتھی",
+  "phone": "0346 0553153",
+  "whatsapp": "923460553153",
+  "email": "",
+  "address_en": "Swat, Khyber Pakhtunkhwa, Pakistan",
+  "address_ur": "سوات، خیبر پختونخوا، پاکستان",
+  "hours_en": "Monday – Saturday · 9:00 AM – 9:00 PM",
+  "hours_ur": "پیر تا ہفتہ · صبح 9:00 تا رات 9:00",
+  "map_embed": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+  "tiktok": "",
+  "logo": "/assets/defaults/logo.svg",
+  "favicon": "/assets/defaults/favicon.svg",
+  "og_image": "/assets/defaults/og.jpg",
+  "hero_mode": "scene",
+  "hero_video": "",
+  "hero_image": "",
+  "hero_poster": "/assets/defaults/poster.jpg",
+  "scene_cycle": "yes",
+  "scene_palette": "0",
+  "quality": "auto",
+  "accent": "#19e3b1",
+  "accent2": "#f5b50a",
+  "show_visitors": "no",
+  "disclaimer_en": "We are a private application assistance centre. We are not affiliated with any government department; official fees are paid directly to the concerned authority.",
+  "disclaimer_ur": "ہم ایک نجی درخواست معاونت مرکز ہیں۔ ہمارا کسی سرکاری ادارے سے تعلق نہیں؛ سرکاری فیس متعلقہ ادارے کو براہِ راست ادا کی جاتی ہے۔"
+ },
+ "hero": {
+  "eyebrow_en": "Swat Online Application Center",
+  "eyebrow_ur": "سوات آن لائن ایپلیکیشن سینٹر",
+  "title_en": "Apply Online. Without Stress.",
+  "title_ur": "آن لائن اپلائی کریں۔ بغیر پریشانی۔",
+  "sub_en": "Jobs, admissions, scholarships, passport & CNIC forms and more — filled correctly, submitted on time and tracked until done.",
+  "sub_ur": "نوکریاں، داخلے، اسکالرشپ، پاسپورٹ اور شناختی کارڈ کے فارم اور بہت کچھ — درست بھرے ہوئے، وقت پر جمع اور مکمل ہونے تک ٹریک۔",
+  "cta1_en": "Apply on WhatsApp",
+  "cta1_ur": "واٹس ایپ پر اپلائی کریں",
+  "cta2_en": "Explore Services",
+  "cta2_ur": "خدمات دیکھیں",
+  "chip1_en": "Fast turnaround",
+  "chip1_ur": "تیز رفتار سروس",
+  "chip2_en": "Documents kept private",
+  "chip2_ur": "ڈاکومنٹس محفوظ",
+  "chip3_en": "Free guidance",
+  "chip3_ur": "مفت رہنمائی"
+ },
+ "stats_on": "no",
+ "stats": [
+  {
+   "value": "12",
+   "suffix": "+",
+   "label_en": "Online services",
+   "label_ur": "آن لائن خدمات"
+  },
+  {
+   "value": "7",
+   "suffix": "",
+   "label_en": "Days a week support",
+   "label_ur": "ہفتے میں سپورٹ کے دن"
+  },
+  {
+   "value": "100",
+   "suffix": "%",
+   "label_en": "Careful form checking",
+   "label_ur": "فارم کی مکمل جانچ"
+  },
+  {
+   "value": "24",
+   "suffix": "h",
+   "label_en": "Typical reply time",
+   "label_ur": "عام جواب کا وقت"
+  }
+ ],
+ "services": [
+  {
+   "icon": "briefcase",
+   "title_en": "Online Job Applications",
+   "title_ur": "آن لائن جاب اپلیکیشن",
+   "desc_en": "Government & private job forms — PPSC, FPSC, KPPSC, testing services, Army, Police & more.",
+   "desc_ur": "سرکاری و نجی نوکریوں کے فارم — PPSC، FPSC، KPPSC، ٹیسٹنگ سروسز، آرمی، پولیس اور مزید۔",
+   "price_en": "",
+   "price_ur": ""
+  },
+  {
+   "icon": "cap",
+   "title_en": "University & College Admissions",
+   "title_ur": "یونیورسٹی و کالج داخلے",
+   "desc_en": "Online admission forms, entry-test registration, merit-list follow-up and fee guidance.",
+   "desc_ur": "آن لائن ایڈمیشن فارم، انٹری ٹیسٹ رجسٹریشن، میرٹ لسٹ اور فیس کی رہنمائی۔",
+   "price_en": "",
+   "price_ur": ""
+  },
+  {
+   "icon": "award",
+   "title_en": "Scholarships & Stipends",
+   "title_ur": "اسکالرشپ اور وظائف",
+   "desc_en": "HEC, Ehsaas, BISP, merit and need-based scholarship applications prepared correctly.",
+   "desc_ur": "ایچ ای سی، احساس، بی آئی ایس پی، میرٹ اور ضرورت پر مبنی اسکالرشپ کے درست فارم۔",
+   "price_en": "",
+   "price_ur": ""
+  },
+  {
+   "icon": "id",
+   "title_en": "Passport & CNIC Applications",
+   "title_ur": "پاسپورٹ اور شناختی کارڈ",
+   "desc_en": "Help with new / renewal passport, CNIC, B-Form and family registration online forms.",
+   "desc_ur": "نیا / تجدید پاسپورٹ، شناختی کارڈ، ب فارم اور فیملی رجسٹریشن کے آن لائن فارم میں مدد۔",
+   "price_en": "",
+   "price_ur": ""
+  },
+  {
+   "icon": "globe",
+   "title_en": "Visa & Study Abroad",
+   "title_ur": "ویزا اور بیرونِ ملک تعلیم",
+   "desc_en": "Visa forms, e-visa, student visa document checklists and application guidance.",
+   "desc_ur": "ویزا فارم، ای ویزا، اسٹوڈنٹ ویزا کے ڈاکومنٹس اور درخواست کی رہنمائی۔",
+   "price_en": "",
+   "price_ur": ""
+  },
+  {
+   "icon": "car",
+   "title_en": "Driving License & Excise Forms",
+   "title_ur": "ڈرائیونگ لائسنس و ایکسائز",
+   "desc_en": "Learner / driving license and vehicle-related online forms and fee challans.",
+   "desc_ur": "لرنر / ڈرائیونگ لائسنس اور گاڑی سے متعلق آن لائن فارم اور فیس چالان۔",
+   "price_en": "",
+   "price_ur": ""
+  },
+  {
+   "icon": "file",
+   "title_en": "Professional CV & Cover Letter",
+   "title_ur": "پروفیشنل سی وی",
+   "desc_en": "Modern, ATS-friendly CVs, resumes and cover letters that get noticed.",
+   "desc_ur": "جدید ڈیزائن میں سی وی، ریزیومے اور کور لیٹر جو توجہ حاصل کریں۔",
+   "price_en": "",
+   "price_ur": ""
+  },
+  {
+   "icon": "print",
+   "title_en": "Typing, Printing & Scanning",
+   "title_ur": "ٹائپنگ، پرنٹنگ اور اسکیننگ",
+   "desc_en": "Urdu / English typing, colour printing, photocopy, scanning and lamination.",
+   "desc_ur": "اردو / انگریزی ٹائپنگ، رنگین پرنٹ، فوٹو کاپی، اسکیننگ اور لیمینیشن۔",
+   "price_en": "",
+   "price_ur": ""
+  },
+  {
+   "icon": "wallet",
+   "title_en": "Bank & Mobile Wallet Forms",
+   "title_ur": "بینک اور موبائل والٹ",
+   "desc_en": "Account-opening paperwork and JazzCash / Easypaisa setup assistance.",
+   "desc_ur": "اکاؤنٹ کھولنے کے کاغذات اور جیز کیش / ایزی پیسہ سیٹ اپ میں مدد۔",
+   "price_en": "",
+   "price_ur": ""
+  },
+  {
+   "icon": "chart",
+   "title_en": "Results & Roll Number Slips",
+   "title_ur": "رزلٹ اور رول نمبر سلپ",
+   "desc_en": "Board and university results, roll number slips, date sheets and certificates.",
+   "desc_ur": "بورڈ و یونیورسٹی رزلٹ، رول نمبر سلپ، ڈیٹ شیٹ اور سرٹیفکیٹ۔",
+   "price_en": "",
+   "price_ur": ""
+  },
+  {
+   "icon": "laptop",
+   "title_en": "Freelancing & Online Earning",
+   "title_ur": "فری لانسنگ اور آن لائن کمائی",
+   "desc_en": "Fiverr / Upwork profile setup, guidance and getting started with online work.",
+   "desc_ur": "فائیور / اپ ورک پروفائل سیٹ اپ، رہنمائی اور آن لائن کام کا آغاز۔",
+   "price_en": "",
+   "price_ur": ""
+  },
+  {
+   "icon": "building",
+   "title_en": "Business & NTN Registration",
+   "title_ur": "بزنس اور NTN رجسٹریشن",
+   "desc_en": "NTN, SECP and small-business online registration support.",
+   "desc_ur": "NTN، SECP اور چھوٹے کاروبار کی آن لائن رجسٹریشن میں معاونت۔",
+   "price_en": "",
+   "price_ur": ""
+  }
+ ],
+ "steps": [
+  {
+   "title_en": "Contact us",
+   "title_ur": "رابطہ کریں",
+   "desc_en": "Message us on WhatsApp, call, or fill the form below. Tell us what you need.",
+   "desc_ur": "واٹس ایپ، کال یا نیچے دیا گیا فارم بھر کر اپنی ضرورت بتائیں۔"
+  },
+  {
+   "title_en": "Share documents",
+   "title_ur": "ڈاکومنٹس بھیجیں",
+   "desc_en": "Send clear photos / scans of the required documents. We tell you exactly what is needed.",
+   "desc_ur": "مطلوبہ ڈاکومنٹس کی واضح تصاویر / اسکین بھیجیں۔ ہم بتاتے ہیں کیا چاہیے۔"
+  },
+  {
+   "title_en": "We prepare & verify",
+   "title_ur": "ہم تیار اور چیک کرتے ہیں",
+   "desc_en": "Your application is filled carefully and double-checked before submission.",
+   "desc_ur": "آپ کی درخواست احتیاط سے بھری اور جمع کروانے سے پہلے دو بار چیک کی جاتی ہے۔"
+  },
+  {
+   "title_en": "Submit & get proof",
+   "title_ur": "جمع کروائیں اور رسید لیں",
+   "desc_en": "We submit on time and hand you the receipt, slip or confirmation.",
+   "desc_ur": "ہم وقت پر جمع کرواتے ہیں اور رسید، سلپ یا تصدیق آپ کو دیتے ہیں۔"
+  }
+ ],
+ "why": [
+  {
+   "icon": "bolt",
+   "title_en": "Fast & on time",
+   "title_ur": "تیز اور بروقت",
+   "desc_en": "Deadlines matter. We prioritise urgent applications.",
+   "desc_ur": "آخری تاریخ اہم ہے۔ ہم فوری درخواستوں کو ترجیح دیتے ہیں۔"
+  },
+  {
+   "icon": "shield",
+   "title_en": "Private & secure",
+   "title_ur": "نجی اور محفوظ",
+   "desc_en": "Your CNIC and documents are handled with care and never shared.",
+   "desc_ur": "آپ کا شناختی کارڈ اور ڈاکومنٹس احتیاط سے رکھے جاتے ہیں اور کسی کو نہیں دیے جاتے۔"
+  },
+  {
+   "icon": "check",
+   "title_en": "Error-free forms",
+   "title_ur": "غلطی سے پاک فارم",
+   "desc_en": "Every field is verified so your application is not rejected.",
+   "desc_ur": "ہر خانہ چیک کیا جاتا ہے تاکہ آپ کی درخواست مسترد نہ ہو۔"
+  },
+  {
+   "icon": "coin",
+   "title_en": "Honest, low charges",
+   "title_ur": "مناسب اور واضح چارجز",
+   "desc_en": "Clear service charges. Government fees go directly to the department.",
+   "desc_ur": "سروس چارجز واضح ہیں۔ سرکاری فیس براہِ راست ادارے کو جاتی ہے۔"
+  },
+  {
+   "icon": "chat",
+   "title_en": "WhatsApp support",
+   "title_ur": "واٹس ایپ سپورٹ",
+   "desc_en": "Ask anything, send documents and get updates on WhatsApp.",
+   "desc_ur": "کچھ بھی پوچھیں، ڈاکومنٹس بھیجیں اور واٹس ایپ پر اپڈیٹ لیں۔"
+  },
+  {
+   "icon": "pin",
+   "title_en": "Local in Swat",
+   "title_ur": "سوات میں مقامی",
+   "desc_en": "Visit us in person or apply from anywhere online.",
+   "desc_ur": "خود تشریف لائیں یا کہیں سے بھی آن لائن اپلائی کریں۔"
+  }
+ ],
+ "updates_on": "yes",
+ "updates": [
+  {
+   "cat": "jobs",
+   "title_en": "Sample: Add your latest job notice here",
+   "title_ur": "نمونہ: اپنی تازہ نوکری کا اشتہار یہاں شامل کریں",
+   "last_date": "",
+   "link": "",
+   "sample": "yes"
+  },
+  {
+   "cat": "admissions",
+   "title_en": "Sample: Add a university admission notice here",
+   "title_ur": "نمونہ: یونیورسٹی داخلے کا اعلان یہاں شامل کریں",
+   "last_date": "",
+   "link": "",
+   "sample": "yes"
+  },
+  {
+   "cat": "scholarships",
+   "title_en": "Sample: Add a scholarship announcement here",
+   "title_ur": "نمونہ: اسکالرشپ کا اعلان یہاں شامل کریں",
+   "last_date": "",
+   "link": "",
+   "sample": "yes"
+  }
+ ],
+ "gallery_on": "yes",
+ "gallery": [
+  {
+   "img": "/assets/defaults/swat-1.jpg",
+   "thumb": "/assets/defaults/swat-1-s.jpg",
+   "caption_en": "Golden hour over the valley",
+   "caption_ur": "وادی پر سنہری صبح"
+  },
+  {
+   "img": "/assets/defaults/swat-2.jpg",
+   "thumb": "/assets/defaults/swat-2-s.jpg",
+   "caption_en": "Snow peaks of Swat",
+   "caption_ur": "سوات کے برف پوش پہاڑ"
+  },
+  {
+   "img": "/assets/defaults/swat-3.jpg",
+   "thumb": "/assets/defaults/swat-3-s.jpg",
+   "caption_en": "Sunset on the Swat river",
+   "caption_ur": "دریائے سوات پر غروبِ آفتاب"
+  },
+  {
+   "img": "/assets/defaults/swat-4.jpg",
+   "thumb": "/assets/defaults/swat-4-s.jpg",
+   "caption_en": "Blue hour in the mountains",
+   "caption_ur": "پہاڑوں میں نیلی شام"
+  },
+  {
+   "img": "/assets/defaults/swat-5.jpg",
+   "thumb": "/assets/defaults/swat-5-s.jpg",
+   "caption_en": "Moonlit valley",
+   "caption_ur": "چاندنی میں وادی"
+  },
+  {
+   "img": "/assets/defaults/swat-6.jpg",
+   "thumb": "/assets/defaults/swat-6-s.jpg",
+   "caption_en": "Morning mist",
+   "caption_ur": "صبح کی دھند"
+  }
+ ],
+ "testimonials_on": "no",
+ "testimonials": [],
+ "faq": [
+  {
+   "q_en": "Which documents do I need?",
+   "a_en": "It depends on the application. Message us the service you need and we will send the exact checklist.",
+   "q_ur": "مجھے کون سے ڈاکومنٹس چاہئیں؟",
+   "a_ur": "یہ درخواست کی قسم پر منحصر ہے۔ سروس کا نام بھیجیں، ہم مکمل فہرست بھیج دیں گے۔"
+  },
+  {
+   "q_en": "Can I apply without visiting the centre?",
+   "a_en": "Yes. Send your documents on WhatsApp or upload them with the form below and we will do the rest.",
+   "q_ur": "کیا میں سینٹر آئے بغیر اپلائی کر سکتا ہوں؟",
+   "a_ur": "جی ہاں۔ ڈاکومنٹس واٹس ایپ پر بھیجیں یا نیچے فارم کے ساتھ اپ لوڈ کریں، باقی کام ہم کریں گے۔"
+  },
+  {
+   "q_en": "How much do you charge?",
+   "a_en": "Service charges are small and clear — message us the service and we will tell you the price before we start. Government fees are separate.",
+   "q_ur": "آپ کے چارجز کتنے ہیں؟",
+   "a_ur": "سروس چارجز مناسب اور واضح ہیں — سروس بتائیں، شروع کرنے سے پہلے قیمت بتا دی جائے گی۔ سرکاری فیس الگ ہوتی ہے۔"
+  },
+  {
+   "q_en": "Are my documents safe?",
+   "a_en": "Yes. Documents are used only for your application and are not shared with anyone else.",
+   "q_ur": "کیا میرے ڈاکومنٹس محفوظ ہیں؟",
+   "a_ur": "جی ہاں۔ ڈاکومنٹس صرف آپ کی درخواست کے لیے استعمال ہوتے ہیں اور کسی اور کو نہیں دیے جاتے۔"
+  },
+  {
+   "q_en": "How can I check my application status?",
+   "a_en": "Use the Track Application box on this page with your reference number and phone number.",
+   "q_ur": "میں اپنی درخواست کی حالت کیسے دیکھوں؟",
+   "a_ur": "اس صفحے پر Track Application باکس میں اپنا ریفرنس نمبر اور فون نمبر لکھیں۔"
+  },
+  {
+   "q_en": "Do you work on holidays or near deadlines?",
+   "a_en": "We try our best to help with urgent deadlines. Message us on WhatsApp as early as possible.",
+   "q_ur": "کیا آپ چھٹیوں یا آخری تاریخ کے قریب بھی کام کرتے ہیں؟",
+   "a_ur": "ہم فوری آخری تاریخوں میں مدد کی پوری کوشش کرتے ہیں۔ جتنا جلد ہو واٹس ایپ پر پیغام کریں۔"
+  }
+ ]
+}
